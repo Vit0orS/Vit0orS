@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Typescript, React, Angular, Java
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ... Through Github.
-
--Languages: Portuguese/English
+- Languages: Portuguese/English
 
 <!---
 Vit0orS/Vit0orS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
